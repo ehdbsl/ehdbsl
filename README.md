@@ -65,5 +65,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-![Gruit](<img width="1175" alt="Gruit" src="https://github.com/user-attachments/assets/f29de97d-d16f-4b57-807f-bf88e1ff37ba">
-)
+![Gruit Logo](https://github.com/username/repository/raw/main/img/Gruit.png)
+
