@@ -77,8 +77,8 @@
 <img width="790" alt="image" src="https://github.com/user-attachments/assets/f1c10358-0c9a-48f4-8e98-3e29f56efbe3">
 <br><hr>
 
-### [KDT 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플](https://github.com/hwd0ng/KDT_Project3-PIP.git)
-<img width="790" alt="image" src="https://github.com/user-attachments/assets/2d8aa565-b107-48c4-a3be-0ff53dd7064b">
+### [KDT 3차 프로젝트 - (Computer Vision) 컴퓨터 비전을 활용한 좋은 품질의 식자재 추천 서비스]()
+<img width="1175" alt="Gruit" src="https://github.com/user-attachments/assets/e83f991f-6085-4e13-b9e0-35d162e1601d">
 <br><hr>
 </details>
 
