@@ -65,5 +65,20 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-![Gruit Logo](<https://github.com/user-attachments/assets/8c75aeed-2b99-4326-9717-5c0d9f7ceb0c">)
+# 📊 Projects
+<details>
+<summary><strong style="font-size: 1.5em;">프로젝트 보기(클릭)</strong></summary>
+  
+### [KDT 1차 프로젝트 - (Web) 세상의 모든 ](https://github.com/hwd0ng/KDT_Project1-SafeMall.git)
+<img width="790" alt="image" src="https://github.com/user-attachments/assets/8d6f9b59-6a63-45f4-9897-d47ce2d0c3cc">
+<br><hr>
+
+### [KDT 2차 프로젝트 - (NLP) EPL챗봇 서비스](https://github.com/hwd0ng/KDT_Project2-EPL_Chatbot.git)
+<img width="790" alt="image" src="https://github.com/user-attachments/assets/f1c10358-0c9a-48f4-8e98-3e29f56efbe3">
+<br><hr>
+
+### [KDT 3차 프로젝트 - (Computer Vision) 개인정보 보호 방송 어플](https://github.com/hwd0ng/KDT_Project3-PIP.git)
+<img width="790" alt="image" src="https://github.com/user-attachments/assets/2d8aa565-b107-48c4-a3be-0ff53dd7064b">
+<br><hr>
+</details>
 
