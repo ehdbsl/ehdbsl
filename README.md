@@ -77,7 +77,7 @@
 <img width="790" alt="image" src="https://github.com/user-attachments/assets/f1c10358-0c9a-48f4-8e98-3e29f56efbe3">
 <br><hr>
 
-### [KDT 3차 프로젝트 - (Computer Vision) 컴퓨터 비전을 활용한 좋은 품질의 식자재 추천 서비스]()
+### [KDT 3차 프로젝트 - (Computer Vision) 컴퓨터 비전을 활용한 좋은 품질의 식자재 추천 서비스](https://github.com/ehdbsl/Gruit)
 <img width="1175" alt="Gruit" src="https://github.com/user-attachments/assets/e83f991f-6085-4e13-b9e0-35d162e1601d">
 <br><hr>
 </details>
