@@ -69,8 +69,9 @@
 <details>
 <summary><strong style="font-size: 1.5em;">프로젝트 보기(클릭)</strong></summary>
   
-### [KDT 1차 프로젝트 - (Web) 세상의 모든 ](https://github.com/hwd0ng/KDT_Project1-SafeMall.git)
-<img width="790" alt="image" src="https://github.com/user-attachments/assets/8d6f9b59-6a63-45f4-9897-d47ce2d0c3cc">
+### [KDT 1차 프로젝트 - (Web) 세상의 모든 책을 한번에 BookHub](https://github.com/ehdbsl/BookHub)
+<img width="790" alt="image" src="<img width="1062" alt="BookHub" src="https://github.com/user-attachments/assets/b4529f59-d61a-491f-85f3-ad88e9951fe8">
+">
 <br><hr>
 
 ### [KDT 2차 프로젝트 - (NLP) EPL챗봇 서비스](https://github.com/hwd0ng/KDT_Project2-EPL_Chatbot.git)
