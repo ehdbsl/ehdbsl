@@ -87,3 +87,5 @@ alt="Typing SVG"/></a>
 <br><hr>
 </details>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehdbsl&show_icons=true&locale=en&layout=compact" alt="ehdbsl"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ehdbsl&show_icons=true&locale=en" alt="ehdbsl"/></p>
