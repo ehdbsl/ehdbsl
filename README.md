@@ -69,6 +69,13 @@ alt="Typing SVG"/></a>
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+<hr>
+<h3 align="center"><b>📝 Notion </b></h3>
+<p align="center">
+  <a href="https://www.notion.so/20f478297b8f46e19e20fe37ec06eff6">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
 
 # 📊 Projects
 <details>
